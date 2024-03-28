@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Papia's first project on namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapiaD/namaste-react-course.git"
+  },
+  "keywords": [],
+  "author": "Papia Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapiaD/namaste-react-course/issues"
+  },
+  "homepage": "https://github.com/PapiaD/namaste-react-course#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
